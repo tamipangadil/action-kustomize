@@ -1,0 +1,6 @@
+name: GitHub Action Kustomize
+description: Kustomize tool for GitHub Action
+author: 'Tami Pangadil'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
